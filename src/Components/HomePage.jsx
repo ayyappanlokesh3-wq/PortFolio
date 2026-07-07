@@ -62,7 +62,7 @@ function Home() {
         <h1>Lokesh Bharathi A</h1>
         <h2>Full Stack Developer</h2>
         <p className="desc">
-          Passionate Full Stack Developer specializing in building modern,
+          Passionate Front-End Developer specializing in building modern,
           responsive, and user-friendly web applications. I enjoy creating clean
           UI designs and scalable backend solutions.
         </p>
